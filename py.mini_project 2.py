@@ -1,3 +1,4 @@
+#HERE IS AN E-COMMERCE APPLICATION CODE
 class Product:
     def __init__(self, name, product_id, price, stock):
         self.name = name
